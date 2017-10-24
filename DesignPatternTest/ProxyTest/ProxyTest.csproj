@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DesignPattern\DesignPattern.csproj">
+    <ProjectReference Include="..\..\DesignPattern\DesignPattern.csproj">
       <Project>{31443507-9e87-45dc-b4b0-fb0f29f4a576}</Project>
       <Name>DesignPattern</Name>
     </ProjectReference>
