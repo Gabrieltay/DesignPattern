@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatternTest", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorTest", "DecoratorTest\DecoratorTest.csproj", "{44F15093-FD53-4F56-9199-11D941E1C98F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyTest", "ProxyTest\ProxyTest.csproj", "{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,11 +25,16 @@ Global
 		{44F15093-FD53-4F56-9199-11D941E1C98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44F15093-FD53-4F56-9199-11D941E1C98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44F15093-FD53-4F56-9199-11D941E1C98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{44F15093-FD53-4F56-9199-11D941E1C98F} = {DFECE1C4-4FAD-46BE-91AB-82582B2BCB8E}
+		{D6ADE9F7-0B4C-4154-B707-F53A6B0B3F6F} = {DFECE1C4-4FAD-46BE-91AB-82582B2BCB8E}
 	EndGlobalSection
 EndGlobal

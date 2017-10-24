@@ -1,5 +1,4 @@
 ﻿# Decorator
-======
 
 **Use the Decorator pattern**
 * Attach additional state or behavior to an object dynamically
